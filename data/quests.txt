@@ -605,3 +605,10 @@ Farmer Ocher and Buttercup
 
    Reward: 1000 XP, FGC, pipe, curdled milk
 
+
+27) Elven rope quest
+   Location: West of Lorien, 2s from Sarion herb shop.
+Quest: Bring the elven ropemaker Hithlain plants ("misty plant"). Some grow along the South edge of the river near by, and often some are available in the herb shop. You will have to bring him several, eg. 5. He will accept the first few as a gift. Just keep trying until he says, "I have not seen such a fine one in a long time.", then wait and he will make you your very own fine elven rope.
+
+    Reward: Fine elven rope
+             - assists climbing like normal rope, but is lighter, and can be retrieved from the wrong end (just "get rope" and, "As you give a pull to the rope, it comes loose.")
